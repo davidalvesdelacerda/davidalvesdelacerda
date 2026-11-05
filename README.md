@@ -9,7 +9,7 @@ An experienced Front-end Developer with 8 years expertise in crafting clean, use
 * 🌍  I'm based in Rio de Janeiro, Brazil<!--🖥️  See my portfolio at [test.com](http://test.com)-->
 * ✉️  You can contact me at [david.lerner@hotmail.com](mailto:david.lerner@hotmail.com)
 * 🚀  I'm currently working on 2 sites: a site to [find makeup artists near you](http://github.com/davidlerner26/find-your-beauty) and another to [add products from different sites into your own wishlist](https://github.com/davidlerner26/choose-a-club)
-* 🧠  I'm learning [Gatsby](https://www.gatsbyjs.com)
+* 🧠  I'm learning [React Native]([https://www.gatsbyjs.com](https://reactnative.dev)
 * 🤝  I'm open to collaborating on interesting projects, so let's connect!
 
 ### Skills
